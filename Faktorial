@@ -1,9 +1,9 @@
 public static void main(String[]args){
 System.out.println("Eko Pramono (103510281)");
 System.out.println("");
-int l = 1;
-int tingkat = 10;
-int n = 12/2;
+int l = 2;//sebelumnya 1
+int tingkat = 20;//sebelumnya 10
+int n = 18/3;//sebelumnya 12/2
 for(int i=1;i<=n;i++){
 for(int k=n;k>i;k--){
 System.out.print(" ");
